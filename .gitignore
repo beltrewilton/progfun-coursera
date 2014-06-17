@@ -15,6 +15,7 @@ project/plugins/project/
 .scala_dependencies
 
 # Eclipse specific
+.settings
 .project
 .classpath
 .cache
